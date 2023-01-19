@@ -50,6 +50,6 @@ const styles = StyleSheet.create({
     borderWidth: 3,
     borderBottomColor: "red",
     //flex:1,
-    backgroundColor: "yellow",
+    backgroundColor: "green",
   },
 });
